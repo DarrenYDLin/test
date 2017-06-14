@@ -1,3 +1,3 @@
 # test
 My first repository on GitHub
-I love :coffeef
+I love :coffeef:
